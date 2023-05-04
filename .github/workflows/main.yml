@@ -21,7 +21,7 @@ jobs:
     - name: Commit change & Push
       run: |
           git config user.name 'JuvenileQ'
-          git config user.email '39209399+JuvenileQ@users.noreply.github.com'
+          git config user.email '2352570242@qq.com'
           git commit -am "bot: update README.md automatically"
           git push
           echo $(git config user.email)

@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */6 * * *'
-
+env:
+  TZ: Asia/Shanghai
+  
 jobs:
   build:
 
@@ -25,4 +27,5 @@ jobs:
           git commit -am "bot: update README.md automatically"
           git push
           echo $(git config user.email)
+          echo $(date)
 

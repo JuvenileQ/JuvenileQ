@@ -1,4 +1,4 @@
-[comment]: <> (⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 40.14 %)
+[comment]: <> (⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 40.21 %)
 
 <p align="center">
     
@@ -12,6 +12,6 @@
 
 <br/>
 <p align="center">
-    ⏰上述信息 <b>每12小时</b> 更新一次！（坐标济南）🌱 上次更新于: <b>2023/5/27</b> ![GitHub Actions](https://github.com/JuvenileQ/JuvenileQ/workflows/profile/badge.svg)
+    ⏰上述信息 <b>每12小时</b> 更新一次！（坐标济南）🌱 上次更新于: <b>2023/5/28</b> ![GitHub Actions](https://github.com/JuvenileQ/JuvenileQ/workflows/profile/badge.svg)
 </p>
 

@@ -3,7 +3,7 @@ name: Profile CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'
   
 jobs:
   build:
@@ -19,13 +19,15 @@ jobs:
         node-version: 'latest'
     - name: Update README.md
       run: node index.js > README.md
+    # git config user.name 'github-actions[bot]'
+    # git config user.email 'github-actions[bot]@users.noreply.github.com'
     - name: Commit change & Push
       run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '39209399+JuvenileQ@users.noreply.github.com'
+          git config user.name ${{ secrets.name }}
+          git config user.email ${{ secrets.email }}
           git commit -am "bot: update README.md automatically"
           git push
-          
+
     - name: Delete Workflow Runs
       uses: JuvenileQ/delete-workflow-runs@main
       with:

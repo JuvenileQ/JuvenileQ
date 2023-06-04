@@ -15,8 +15,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: false
           TIME_RANGE: last_30_days
-          BLOCKS: 囍█
+          BLOCKS: ⣀⣄⣿
           SHOW_TIME: false
           SHOW_MASKED_TIME: false
           LANG_COUNT: 7
           SECTION_NAME: Qin
+          CODE_LANG: css

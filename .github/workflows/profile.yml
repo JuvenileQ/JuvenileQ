@@ -1,4 +1,4 @@
-name: Progress Bar CI
+name: Profile CI
 
 on:
   workflow_dispatch:

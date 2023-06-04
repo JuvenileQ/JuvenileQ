@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt='Hello'/>Hey! Nice to see you.👋</h1>
 <p align="center">
-    <a href="https://github.com/JuvenileQ">
+    <a target="_blank" href="https://github.com/JuvenileQ">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JuvenileQ-d7d7d7?logo=github" />
     </a>
     <a href="https://juejin.cn/user/4187374087573293">

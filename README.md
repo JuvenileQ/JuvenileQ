@@ -12,8 +12,6 @@
 <!--START_SECTION:Qin-->
 
 ```txt
-From: 24 May 2023 - To: 03 June 2023
-
 Total Time: 25 hrs 9 mins
 
 JavaScript       17 hrs 58 mins  ██████████████████░░░░░░░   71.45 %

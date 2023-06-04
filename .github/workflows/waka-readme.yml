@@ -13,9 +13,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # SHOW_TITLE: true
-          TIME_RANGE: all_time
+          SHOW_TITLE: false
+          TIME_RANGE: last_30_days
+          BLOCKS: 囍█
           SHOW_TIME: false
           SHOW_MASKED_TIME: false
-          LANG_COUNT: 10
+          LANG_COUNT: 7
           SECTION_NAME: Qin

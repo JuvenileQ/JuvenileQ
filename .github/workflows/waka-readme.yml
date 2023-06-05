@@ -5,8 +5,6 @@ on:
   workflow_run: 
     workflows: ["Profile CI"]
     types: [requested]
-#     branches:
-#       - 'origin/**'
     
 jobs:
   update-readme:

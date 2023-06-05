@@ -1,10 +1,10 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
-  schedule:
-    - cron: "10 22 * * *" # runs at every 12AM UTC
-
+  workflow_run: 
+    workflows: ["profile"]
+    types: [requested]
+    
 jobs:
   update-readme:
     name: WakaReadme DevMetrics

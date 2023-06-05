@@ -59,7 +59,7 @@ const readme = `\
 ---
 
 <p align="center">
-    ⏰每12小时定时更新，上次更新于：${new Date().toLocaleDateString('zh-CN', {timeZone: 'Asia/Shanghai'})}
+    ⏰每12小时定时更新，上次更新于：${new Date().toLocaleDateString('zh-CN', {timeZone: 'Asia/Shanghai'})}（${Date.now()}）
 </p>
 \
 `

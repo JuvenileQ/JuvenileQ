@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
-#   workflow_run: 
-#     workflows: ["Profile CI"]
-#     types: [requested]
+  workflow_run: 
+    workflows: ["Profile CI"]
+    types: [requested]
 #     branches:
 #       - 'origin/**'
     

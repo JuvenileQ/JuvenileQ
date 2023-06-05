@@ -3,7 +3,7 @@ name: Profile CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '9 22 * * *'
+    - cron: '0 16 * * *'
   
 jobs:
   build:

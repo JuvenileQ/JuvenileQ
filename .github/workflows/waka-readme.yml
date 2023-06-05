@@ -6,7 +6,7 @@ on:
     workflows: ["Profile CI"]
     types: [requested]
     branches:
-      - 'main/**'
+      - 'origin/**'
     
 jobs:
   update-readme:

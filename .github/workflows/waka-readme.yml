@@ -3,8 +3,10 @@ name: Waka Readme
 on:
   workflow_dispatch:
   workflow_run: 
-    workflows: ["profile"]
+    workflows: ["Profile CI"]
     types: [requested]
+    branches:
+      - 'main/**'
     
 jobs:
   update-readme:

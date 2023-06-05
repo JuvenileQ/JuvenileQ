@@ -38,7 +38,7 @@ const readme = `\
 - 🌵 I am a full stack **Developer**
 - 💬 Want to do something **interesting**
 - 🌈 **Study** with me
-- 🌱 Follow me on [GitHub](https://github.com/JuvenileQ) ,[掘金](https://juejin.cn/user/4187374087573293),[CSDN](https://blog.csdn.net/qq_37424916),[哔哩哔哩](https://space.bilibili.com/303638383),[Gitee](https://gitee.com/qinyanjin) or [知乎](https://www.zhihu.com/people/qinyanjin)
+- 🌱 Follow me on [GitHub](https://github.com/JuvenileQ), [掘金](https://juejin.cn/user/4187374087573293), [CSDN](https://blog.csdn.net/qq_37424916), [哔哩哔哩](https://space.bilibili.com/303638383), [Gitee](https://gitee.com/qinyanjin) or [知乎](https://www.zhihu.com/people/qinyanjin)
 
 
 #### Weekly development breakdown 📊

@@ -49,10 +49,10 @@ const readme = `\
 
 <p>
     <a target="_blank" href="https://github.com/JuvenileQ">
-        <img width=410px alt='qinyanjin' src="https://github-readme-stats-theta-murex.vercel.app/api?username=JuvenileQ&hide_title=true&locale=cn&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true"/>
+        <img width=410px height=150px alt='qinyanjin' src="https://github-readme-stats-theta-murex.vercel.app/api?username=JuvenileQ&hide_title=true&locale=cn&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true"/>
     </a>
      <a target="_blank" href="https://github.com/JuvenileQ">
-        <img width=410px alt='qinyanjin' src="https://github-readme-stats-theta-murex.vercel.app/api/top-langs?username=JuvenileQ&layout=compact&hide_title=true&langs_count=6&locale=cn&include_all_commits=true&count_private=true"/>
+        <img width=410px height=150px alt='qinyanjin' src="https://github-readme-stats-theta-murex.vercel.app/api/top-langs?username=JuvenileQ&layout=compact&hide_title=true&langs_count=6&locale=cn&include_all_commits=true&count_private=true"/>
     </a>
 </p>
 

@@ -43,32 +43,21 @@
 #### Weekly development breakdown 📊
 
 <!--START_SECTION:Qin-->
-
-```css
-TypeScript                                    ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.99 %
-JavaScript                                    ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.09 %
-JSON                                          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.63 %
-HTML                                          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.28 %
-Shell Script                                  ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.59 %
-INI                                           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.17 %
-GitIgnore file                                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.23 %
-```
-
 <!--END_SECTION:Qin-->
 
 
 <p>
     <a target="_blank" href="https://github.com/JuvenileQ">
-        <img width=410px alt='qinyanjin' src="https://github-readme-stats-theta-murex.vercel.app/api?username=JuvenileQ&hide_title=true&locale=cn&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true"/>
+        <img width=410px height=150px alt='qinyanjin' src="https://github-readme-stats-theta-murex.vercel.app/api?username=JuvenileQ&hide_title=true&locale=cn&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true"/>
     </a>
      <a target="_blank" href="https://github.com/JuvenileQ">
-        <img width=410px alt='qinyanjin' src="https://github-readme-stats-theta-murex.vercel.app/api/top-langs?username=JuvenileQ&layout=compact&hide_title=true&langs_count=6&locale=cn&include_all_commits=true&count_private=true"/>
+        <img width=410px height=150px alt='qinyanjin' src="https://github-readme-stats-theta-murex.vercel.app/api/top-langs?username=JuvenileQ&layout=compact&hide_title=true&langs_count=6&locale=cn&include_all_commits=true&count_private=true"/>
     </a>
 </p>
 
 ---
 
 <p align="center">
-    ⏰每12小时定时更新，上次更新于：2023/7/20（1689783665298）
+    ⏰每12小时定时更新，上次更新于：2023/7/20（1689850502765）
 </p>
 

@@ -43,11 +43,6 @@
 #### Weekly development breakdown 📊
 
 <!--START_SECTION:Qin-->
-
-```css
-TypeScript                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-```
-
 <!--END_SECTION:Qin-->
 
 
@@ -63,6 +58,6 @@ TypeScript                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ---
 
 <p align="center">
-    ⏰每12小时定时更新，上次更新于：2025/5/18（1747499194543）
+    ⏰每12小时定时更新，上次更新于：2025/5/19（1747585559248）
 </p>
 

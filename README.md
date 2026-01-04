@@ -43,6 +43,11 @@
 #### Weekly development breakdown 📊
 
 <!--START_SECTION:Qin-->
+
+```css
+No activity tracked
+```
+
 <!--END_SECTION:Qin-->
 
 
